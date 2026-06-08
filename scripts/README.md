@@ -11,10 +11,6 @@ This repository contains the R code for analyzing **IL-6, IL-10, IL-1B and TGF-B
 4. **Significance Grouping**: Automatic assignment of compact letter displays (CLD) using `multcompView`.
 5. **Visualization**: A themed bar plot with error bars (Standard Error) and significance letters.
 
-## Repository Structure
-- `IL_1B_MREC.xlsx`: The input dataset containing sample metadata and raw Ct values.Other datasets are available on request.
-- `analysis_script.R`: The complete R code for processing and plotting.
-
 ## Required R Packages
 To run this analysis, you will need the following libraries:
 - `readxl`: For data import.
